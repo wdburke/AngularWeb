@@ -1,0 +1,14 @@
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\AngularJSWebApiEmpty.dll.config
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\AngularJSWebApiEmpty.dll
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\AngularJSWebApiEmpty.pdb
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\Newtonsoft.Json.dll
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\System.Net.Http.Formatting.dll
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\System.Web.Http.dll
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\System.Web.Http.WebHost.dll
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\Newtonsoft.Json.xml
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\System.Net.Http.Formatting.xml
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\System.Web.Http.xml
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\bin\System.Web.Http.WebHost.xml
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\obj\Debug\WDBAngularRevision.csprojResolveAssemblyReference.cache
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\obj\Debug\AngularJSWebApiEmpty.dll
+C:\Users\stanley burke\Source\Repos\AngularWeb\WDBRevision\WDBAngularRevision\obj\Debug\AngularJSWebApiEmpty.pdb
